@@ -1,0 +1,6 @@
+[package]
+name = "stm32f401xe"
+version = "0.1.0"
+authors = ["ryochack <ryochack@gmail.com>"]
+
+[dependencies]
