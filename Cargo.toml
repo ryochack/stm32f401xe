@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["ryochack <ryochack@gmail.com>"]
 
 [dependencies]
+bare-metal = "0.1.1"
+cortex-m = "0.4.3"
+cortex-m-rt = "0.4.0"
+vcell = "0.1.0"
